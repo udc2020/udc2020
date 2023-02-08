@@ -1,5 +1,5 @@
  <div id="header" align="center">
-  <img src="https://scontent.falg6-1.fna.fbcdn.net/v/t39.30808-6/270011993_715549396499644_7204796327414861727_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Q_wMTFXFwRwAX9nXZCJ&_nc_ht=scontent.falg6-1.fna&oh=00_AfB0TxMp9l2FYnKiTw3ay20AIN4lkvb3CXpKge3lvN_CWg&oe=63E9B190" width="100%"/>
+  <img src="https://scontent.falg6-1.fna.fbcdn.net/v/t39.30808-6/270011993_715549396499644_7204796327414861727_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Q_wMTFXFwRwAX9nXZCJ&_nc_ht=scontent.falg6-1.fna&oh=00_AfB0TxMp9l2FYnKiTw3ay20AIN4lkvb3CXpKge3lvN_CWg&oe=63E9B190" width="100%" height="350"/>
   <div id="badges">
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
@@ -7,9 +7,13 @@
 </div>
   <h1>
   UltrasDzCoder
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 </h1>
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!--     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
 
 </div>
 
