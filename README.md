@@ -1,5 +1,5 @@
  <div id="header" align="center">
-  <img src="https://scontent.falg6-1.fna.fbcdn.net/v/t39.30808-6/270011993_715549396499644_7204796327414861727_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Q_wMTFXFwRwAX9nXZCJ&_nc_ht=scontent.falg6-1.fna&oh=00_AfB0TxMp9l2FYnKiTw3ay20AIN4lkvb3CXpKge3lvN_CWg&oe=63E9B190" width="100%" height="350"/>
+  <img src="https://pbs.twimg.com/profile_banners/1318278249848426500/1640545629/1500x500" width="100%" height="350"/>
   <div id="badges">
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
